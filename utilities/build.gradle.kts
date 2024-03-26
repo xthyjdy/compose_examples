@@ -36,5 +36,4 @@ android {
 dependencies {
     implementation(MyDependencies.coreKtx)
     implementation(MyDependencies.appcompat)
-//    implementation(MyDependencies.androidMaterial)
 }
